@@ -1,6 +1,7 @@
 # OneByteAtATime-C
-
 C code repository for OneByteAtATime YT channel
+
+Main Channel: https://www.youtube.com/c/OneByteAtATime7
 
 We each live on our own specific and finite island of knowledge, surrounded by an infinite sea of ignorance. As our island of knowledge grows, 
 so does the shore of our ignorance (John Archibald Wheeler). Learning a little more each day about the infinite things to know in this universe
